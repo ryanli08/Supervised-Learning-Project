@@ -23,4 +23,5 @@ Each model was trained using a 70/30 split with 5-fold cross-validation and stan
 
 ---
 
+**Author:** Ryan Li  
 
